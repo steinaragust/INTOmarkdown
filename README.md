@@ -7,7 +7,7 @@
 I did actually install linux a while ago, i mounted the image on usb,
 booted through bios and resized the hardrive into two partitions.
 It was really easy.
-[logo]: http://s7.postimg.org/7z71af4mj/linux.jpg "Dual Boot"
+![alt text]http://s7.postimg.org/7z71af4mj/linux.jpg
 
 ## 2. Uppsetning á vim && git
 
